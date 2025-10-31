@@ -1,0 +1,98 @@
+{
+  "layer0_head0": {
+    "operator_attention": 0.4757804274559021,
+    "diagonal_attention": 0.02113514579832554,
+    "carry_attention": 0.0886526107788086,
+    "entropy": 0.7027133107185364
+  },
+  "layer0_head1": {
+    "operator_attention": 0.0287407785654068,
+    "diagonal_attention": 0.7430204749107361,
+    "carry_attention": 0.04823513329029083,
+    "entropy": 0.49321606755256653
+  },
+  "layer0_head2": {
+    "operator_attention": 0.4906673729419708,
+    "diagonal_attention": 0.021626826375722885,
+    "carry_attention": 0.04920177161693573,
+    "entropy": 0.9351768493652344
+  },
+  "layer0_head3": {
+    "operator_attention": 0.6782259345054626,
+    "diagonal_attention": 0.04703685641288757,
+    "carry_attention": 0.16502587497234344,
+    "entropy": 0.9233273267745972
+  },
+  "layer1_head0": {
+    "operator_attention": 0.38684186339378357,
+    "diagonal_attention": 0.045532919466495514,
+    "carry_attention": 0.010943674482405186,
+    "entropy": 0.8459544777870178
+  },
+  "layer1_head1": {
+    "operator_attention": 0.01338756363838911,
+    "diagonal_attention": 0.7793578505516052,
+    "carry_attention": 0.10632326453924179,
+    "entropy": 0.39130306243896484
+  },
+  "layer1_head2": {
+    "operator_attention": 0.3412964344024658,
+    "diagonal_attention": 0.012858781032264233,
+    "carry_attention": 0.09510537981987,
+    "entropy": 1.006505012512207
+  },
+  "layer1_head3": {
+    "operator_attention": 0.48386576771736145,
+    "diagonal_attention": 0.1050185039639473,
+    "carry_attention": 0.1039433404803276,
+    "entropy": 1.1174129247665405
+  },
+  "layer2_head0": {
+    "operator_attention": 0.3721345365047455,
+    "diagonal_attention": 0.21990151703357697,
+    "carry_attention": 0.029272960498929024,
+    "entropy": 0.6560759544372559
+  },
+  "layer2_head1": {
+    "operator_attention": 0.14454683661460876,
+    "diagonal_attention": 0.6982001662254333,
+    "carry_attention": 0.1831042319536209,
+    "entropy": 0.3612648546695709
+  },
+  "layer2_head2": {
+    "operator_attention": 0.5042818784713745,
+    "diagonal_attention": 0.024818668141961098,
+    "carry_attention": 0.19858302175998688,
+    "entropy": 0.8063520789146423
+  },
+  "layer2_head3": {
+    "operator_attention": 0.49851465225219727,
+    "diagonal_attention": 0.056833360344171524,
+    "carry_attention": 0.148615300655365,
+    "entropy": 1.1283152103424072
+  },
+  "layer3_head0": {
+    "operator_attention": 0.4880843460559845,
+    "diagonal_attention": 0.026902269572019577,
+    "carry_attention": 0.0730179101228714,
+    "entropy": 0.5390475988388062
+  },
+  "layer3_head1": {
+    "operator_attention": 0.03731151670217514,
+    "diagonal_attention": 0.8223233222961426,
+    "carry_attention": 0.07114077359437943,
+    "entropy": 0.37605637311935425
+  },
+  "layer3_head2": {
+    "operator_attention": 0.4866963326931,
+    "diagonal_attention": 0.0039052569773048162,
+    "carry_attention": 0.18609152734279633,
+    "entropy": 0.657643735408783
+  },
+  "layer3_head3": {
+    "operator_attention": 0.648247241973877,
+    "diagonal_attention": 0.07124434411525726,
+    "carry_attention": 0.1978502869606018,
+    "entropy": 0.9281243085861206
+  }
+}
