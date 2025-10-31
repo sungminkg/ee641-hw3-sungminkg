@@ -1,5 +1,8 @@
 # EE 641 - Homework 3: Attention Mechanisms and Transformers
 
+**Full Name:** Sungmin Kang  
+**USC Email:** kangsung@usc.edu  
+
 Starter code for implementing multi-head attention and analyzing positional encoding strategies.
 
 ## Structure
@@ -31,12 +34,40 @@ python analyze.py
 ```bash
 cd problem2
 python generate_data.py --seed 641
+python scripts/generate_data.py --seed 641 --generate-extrapolation
 python train.py --encoding sinusoidal
 python train.py --encoding learned
 python train.py --encoding none
 python analyze.py
 ```
 
-## Full Assignment
+## Folder Tree: 
+
+ee641-hw1-sungminkg/
+├── problem1/
+│   ├── model.py
+│   ├── dataset.py
+│   ├── loss.py
+│   ├── train.py
+│   ├── evaluate.py
+│   ├── utils.py
+│   └── results/
+│       ├── training_log.json
+│       ├── best_model.pth
+│       └── visualizations/
+├── problem2/
+│   ├── model.py
+│   ├── dataset.py
+│   ├── train.py
+│   ├── evaluate.py
+│   ├── baseline.py
+│   └── results/
+│       ├── training_log.json
+│       ├── heatmap_model.pth
+│       ├── regression_model.pth
+│       └── visualizations/
+├── report.pdf
+└── README.md
+
 
 See the course website for complete assignment instructions, deliverables, and submission requirements.
